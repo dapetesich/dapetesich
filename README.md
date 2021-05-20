@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dapetesich
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anyhting (I am pretty new to coding).
+- 💞️ I’m looking to collaborate on anything (I am pretty new to coding).
 - 📫 How to reach me ...
 
 <!---
