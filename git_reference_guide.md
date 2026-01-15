@@ -64,6 +64,30 @@ git commit -m "Added late fee calculation logic"
 git push
 ```
 
+### Daily Workflow for an Existing Project
+
+```bash
+# Getting an Existing Repo
+git clone https://github.com/username/repo-name.git
+
+# After cloning, you'll have a new folder with the repo name. Go into it:
+cd repo-name
+
+# Daily Workflow for an Existing Project
+
+# Before you start working, grab any updates (good habit if you use multiple computers)
+git pull
+
+# Edit your files, run your scripts, test — no Git needed here
+git status
+
+# When you're happy with changes:
+git add .
+git commit -m "Describe what you changed"
+git push
+```
+
+
 ### Checking what you've changed before committing
 
 ```bash
